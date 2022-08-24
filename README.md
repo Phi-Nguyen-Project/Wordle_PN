@@ -34,4 +34,4 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/flyffesteban/Wordle_PN/blob/master/walkthrough_Wordle.gif'' alt='Video Walkthrough' />
 
-
+<img src='https://github.com/flyffesteban/Wordle_PN/blob/master/walkthrough_Wordle.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
